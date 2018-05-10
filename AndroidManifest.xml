@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rahman.line"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icoasf"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.rahman.line.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.rahman.line.ambulances"></activity>
+       <activity android:name="com.rahman.line.blood"></activity>
+        <activity android:name="com.rahman.line.chemist"></activity>
+        <activity android:name="com.rahman.line.detailhosp"></activity>
+         <activity android:name="com.rahman.line.geriatric"></activity>
+        <activity android:name="com.rahman.line.hospitals"></activity>
+        <activity android:name="com.rahman.line.mri"></activity>
+        <activity android:name="com.rahman.line.ophd"></activity>
+        <activity android:name="com.rahman.line.oxygen"></activity>
+        <activity android:name="com.rahman.line.rehab"></activity>
+    </application>
+
+</manifest>

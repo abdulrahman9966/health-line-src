@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title" type="id"/>
+    <item name="tvPhn" type="id" />
+    <item name="phnNo" type="id" />
+    <item name="tvLoc" type="id" />
+    <item name="location" type="id" />
+    <item name="tvWebsite" type="id" />
+    <item name="website" type="id" />
+</resources>

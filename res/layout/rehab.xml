@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/whitesnow"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0sp"
+                android:text="REHABILITATION CENTRES:"
+                android:textSize="25.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="map"
+                android:linksClickable="true"
+                android:text="Sri Sharada Multispeciality Rehabilitaion centre\nOpp Lane To Minerva Coffe Shop,\nBeside Gowtham Model School,\n Himayat Nagar, Hyderabad - 500029"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04067114085"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="The Solutions Foundations Alcoholic\n
+Road No 2,\n Greenhills Colony,\n Kothapet, Hyderabad - 500036	
+"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04066045720"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Samata Rehabilitation And Psychiat\nNear Tadban Hanuman Temple, \nSBI Colony, Secunderabad, Hyderabad "
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04067115638"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Raja Yogi Foundation \n
+H No C/133, Near Ganesh Temple,\nAbove Canara Bank, Vanasthalipuram,\n Hyderabad - 500070"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="040 67117539 , "
+                android:textSize="16.0sp" />
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>

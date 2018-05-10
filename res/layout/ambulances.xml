@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/whitesnow"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0sp"
+                android:text="Ambulances :"
+                android:textSize="25.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="venkatarama ambulances"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049640137"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="sree jeevanshara ambulances"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049710360"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Mediciti hosp. ambulance"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04023237645"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="New Life Hosp. ambulances "
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04024562902"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Asian Hospital"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04023378888"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="care and share services"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049641583"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Apollo ambulance services"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04023607777"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="star amb. services"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049648630"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="24 7 amb. srvices"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049711291"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Krupa ambulances"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04046246291"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        >
+    </TableLayout>
+
+</ScrollView>

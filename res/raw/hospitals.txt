@@ -1,0 +1,16 @@
+Olive Hospital;Genral;Allopathic;918002008111;www.olivehospitals.com; Nanal Nagar X Road, Mehdipatnam, Hyderabad - 500028
+Osmania Hospital;Genral;Allopathic;04024600146;www.oumedicalhospital.com;Afzalgunj Bus Stop, Afzalgunj, Hyderabad - 500012
+Care Hospital;General;Allopathic;04046246551;www.carehospitals.com;Opp gandhi bhavan,Nampally,Hyderabad-500001
+Apollo Hospital;General;Allopathic;04023607777;www.apollohospitals.com;Road No.10,Jublilee Hills,Hyderabad-500033
+Lions club Hospital;General;Opthalmologist;04023226624;www.lionsclub.org;Chandra Nagar, Basheer Bagh  Hyderabad,500029
+Mediciti Hospital;General;Allopathic;04023231111;www.medicitihospitals.com;Secreteriat Road,Hyderabad 500063
+Nilofer Hospital;General;Pediatrian;04023307379;www.nilouferhospital.com;LakdikaPul,Hyderabad
+Awaisi Hospital;General;Allopathic;04024340169;www.owaisihospital.com;Santhosh Nagar,Hyderabad 500058
+Asian Hospital;Genral;Gastroenterology;04023378888;www.aigindia.net;Somajiguda,Hyderabad 500082.
+Global Hospital;Genral;Allopathic;04023244444;www.globalhospitalsindia.com;Lakdikapul,Hyderabad 500004
+Yashoda Hospital;Genral;Allopathic;04027713333;www.yashodahospitals.com;Alexander Road,Secunderabad 500003
+NIIMS Hospital;Genral;Allopathic;04023489000;www.nims.ap.nic.in;Punjagutta, Hyderabad
+Gandhi Hospital;Genral;Allopathic;9849903015;www.gandhihospital.in;Musheerabad,Secunderabad 500003
+Sarojini Eye Hospital;Genral;Allopathic;04023399611;  ;Opposite Crescent Hospital,Humayun Nagar,Mehdipatnam,Hyderabad 500028
+L V Prasad Eye Hospital;Genral;Opthalmologist;04030612514;www.lvpei.org;Road No 2,L V Prasad Marg,Banjara Hills,Hyderabad
+Medinova Hospital;Genral;Allopathic;04023310066;www.medinovaindia.com;Somajiguda,Hyderabad-500007

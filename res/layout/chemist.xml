@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/whitesnow"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0sp"
+                android:text="24 Hours Chemists :"
+                android:textSize="25.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Taj Medical and Surgical Agency\nOpp To Asra Hospital,\n Charminar, Hyderabad - 500002"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04067110263"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Health Care Medical Store\n Opposite Zoo Quarters\n Bahadurpura Hyderabad - 500264"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04049645896 , ext 215"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="Medi Fame Medical And General Store\nAsif Nagar Cross Road,\n Mehdipatnam, Hyderabad - 500028	 "
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="49646084"
+                android:textSize="16.0sp" />
+        </TableRow>
+
+        <TableRow
+            android:paddingBottom="10.0dip"
+            android:paddingTop="10.0dip" >
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:text="MOR Chemists and Druggists\nbasheerbagh hyderabad"
+                android:textSize="18.0sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:autoLink="phone"
+                android:text="04065547111"
+                android:textSize="16.0sp" />
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>
